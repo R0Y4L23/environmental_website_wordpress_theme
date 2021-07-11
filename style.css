@@ -1,0 +1,35 @@
+*{
+    font-family: 'Permanent Marker', cursive;
+}
+header a{
+    font-size: 30px;
+    padding:15px;
+    color:orange;
+}
+.background-image-giver{
+    background-image:url("images/Header_background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mid-background{
+    background-image:url("images/desert.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ab-background{
+    background-image:url("images/abstract.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*.my-font{
+    font-size: 150px !important;
+}
+.my-font2{
+    font-size: 75px !important;
+}
+.my-font3{
+    font-size: 7rem !important;
+}*/
